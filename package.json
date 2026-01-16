@@ -13,5 +13,16 @@
   "devDependencies": {
     "@types/node": "^25.0.3",
     "typescript": "^5.9.3"
-  }
+  },
+  "dependencies": {
+    "undici-types": "^7.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashrafi02/typescript-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mashrafi02/typescript-course/issues"
+  },
+  "homepage": "https://github.com/mashrafi02/typescript-course#readme"
 }
